@@ -1,0 +1,15 @@
+.red-paragraph {
+  color: red;
+}
+.italic-paragraph {
+  font-style: italic;
+}
+h2 {
+  color: blue;
+}
+body {
+  background: papayawhip;
+  line-height: 1.5;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 22px;
+}
